@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gerald-diego54/gerald-portfolio/static/css/main.81279324.css",
+    "main.js": "/gerald-diego54/gerald-portfolio/static/js/main.b8fd4fa1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/gerald-diego54/gerald-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image1.png": "/gerald-diego54/gerald-portfolio/static/media/image1.cfa1707f7c94429f6fa6.png",
+    "static/media/profile_details.svg": "/gerald-diego54/gerald-portfolio/static/media/profile_details.364e1478f2df4922735050d18f7571ec.svg",
+    "static/media/resume.pdf": "/gerald-diego54/gerald-portfolio/static/media/resume.8cc2ad0b9c79b6cb4240.pdf",
+    "static/media/image3.png": "/gerald-diego54/gerald-portfolio/static/media/image3.94d5d652606fead65817.png",
+    "static/media/service_1.svg": "/gerald-diego54/gerald-portfolio/static/media/service_1.2225d120d5d2d01667a0adf512e80f46.svg",
+    "static/media/image2.png": "/gerald-diego54/gerald-portfolio/static/media/image2.5acd3eb7e9f70817b688.png",
+    "static/media/image4.png": "/gerald-diego54/gerald-portfolio/static/media/image4.d4b32d8f09d1a16a5497.png",
+    "static/media/detail_hero.svg": "/gerald-diego54/gerald-portfolio/static/media/detail_hero.4995c12550746d44ed6cbab6d85fb9d7.svg",
+    "static/media/web_developer.svg": "/gerald-diego54/gerald-portfolio/static/media/web_developer.0379675187c608a6929cb7d1057fddfd.svg",
+    "static/media/service_2.svg": "/gerald-diego54/gerald-portfolio/static/media/service_2.a095eecbb719876f43eff35edd86602c.svg",
+    "static/media/wave.svg": "/gerald-diego54/gerald-portfolio/static/media/wave.7f742179242c4c371281.svg",
+    "static/media/welcome.svg": "/gerald-diego54/gerald-portfolio/static/media/welcome.a0084871a2c5323c65211fcab67fb123.svg",
+    "index.html": "/gerald-diego54/gerald-portfolio/index.html",
+    "main.81279324.css.map": "/gerald-diego54/gerald-portfolio/static/css/main.81279324.css.map",
+    "main.b8fd4fa1.js.map": "/gerald-diego54/gerald-portfolio/static/js/main.b8fd4fa1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/gerald-diego54/gerald-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81279324.css",
+    "static/js/main.b8fd4fa1.js"
+  ]
+}
