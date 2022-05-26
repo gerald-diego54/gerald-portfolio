@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/gerald-portfolio/static/css/main.efd527b1.css",
-    "main.js": "/gerald-portfolio/static/js/main.f76a2cda.js",
+    "main.js": "/gerald-portfolio/static/js/main.d1f076b8.js",
     "static/js/787.1ed0c42c.chunk.js": "/gerald-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/image1.png": "/gerald-portfolio/static/media/image1.cfa1707f7c94429f6fa6.png",
     "static/media/profile_details.svg": "/gerald-portfolio/static/media/profile_details.364e1478f2df4922735050d18f7571ec.svg",
-    "static/media/resume.pdf": "/gerald-portfolio/static/media/resume.8cc2ad0b9c79b6cb4240.pdf",
     "static/media/image3.png": "/gerald-portfolio/static/media/image3.94d5d652606fead65817.png",
+    "static/media/resume.pdf": "/gerald-portfolio/static/media/resume.c17251f2d238c6442593.pdf",
     "static/media/service_1.svg": "/gerald-portfolio/static/media/service_1.2225d120d5d2d01667a0adf512e80f46.svg",
     "static/media/image2.png": "/gerald-portfolio/static/media/image2.5acd3eb7e9f70817b688.png",
     "static/media/image4.png": "/gerald-portfolio/static/media/image4.d4b32d8f09d1a16a5497.png",
@@ -17,11 +17,11 @@
     "static/media/welcome.svg": "/gerald-portfolio/static/media/welcome.a0084871a2c5323c65211fcab67fb123.svg",
     "index.html": "/gerald-portfolio/index.html",
     "main.efd527b1.css.map": "/gerald-portfolio/static/css/main.efd527b1.css.map",
-    "main.f76a2cda.js.map": "/gerald-portfolio/static/js/main.f76a2cda.js.map",
+    "main.d1f076b8.js.map": "/gerald-portfolio/static/js/main.d1f076b8.js.map",
     "787.1ed0c42c.chunk.js.map": "/gerald-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efd527b1.css",
-    "static/js/main.f76a2cda.js"
+    "static/js/main.d1f076b8.js"
   ]
 }
