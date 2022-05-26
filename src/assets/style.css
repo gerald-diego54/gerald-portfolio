@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+/* Navigation Bar */
+.navbar_background {
+    background-color: transparent;
+}
+
+.navbar_index {
+    z-index: 1;
+}
+
+.btn {
+    background-color: #45A4E0;
+    color: #ffffff;
+}
+
+
+/* About us */
+.background_image {
+    background-image: url('../assets/img/wave.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 48vh;
+    position: relative;
+    bottom: 100px;
+}
+
+.img_pos {
+    position: relative;
+    top: -170px;
+}
+
+.marg_left {
+    margin-top: 50px;
+    float: left;
+}
+
+.fs_title {
+    font-size: 50px;
+    padding-top: 5px;
+    float: left;
+}
+
+.pos_title_web_dev {
+    color: #4B4747;
+    margin-top: -13px;
+    float: left;
+}
+
+.detail_vh {
+    height: 14vh;
+    margin-left: 210px;
+    margin-top: 20px;
+}
+
+._margin_left_col {
+    margin-left: 100px;
+}
+
+/* Services */
+
+.fs_title_service {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+}
